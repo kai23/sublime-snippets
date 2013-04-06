@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<?=formDate(${1:\$label},${2:\$name},${3:\$data = null},${4:\$default = ''},${5:\$extra=''},${6:\$hInline=''},${7:\$size=5},${8:\$input=true});?>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>formDate</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

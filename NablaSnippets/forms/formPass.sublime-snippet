@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<?=formPass(${1:\$label},${2:\$name},${3:\$extra=''},${4:\$hInline=''},${5:\$size=5)};?>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>formPass</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

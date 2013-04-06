@@ -1,0 +1,35 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[			
+			
+			//application n
+			{
+				"caption": "Image Viewer",
+				"id": "side-bar-files-open-with-eog",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "/usr/bin/eog",
+									"extensions":".*" //any file with extension
+								}
+			},
+
+			{
+				"caption": "Nemo",
+				"id": "side-bar-files-open-with-eog",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "/usr/bin/nemo",
+									"extensions":".*" //any file with extension
+								}
+			},
+
+
+			{"caption":"-"}
+		]
+	}
+]

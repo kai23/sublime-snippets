@@ -1,0 +1,26 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Backbone.js",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"Emmet",
+		"HTML5",
+		"HtmlTidy",
+		"JavaScript Console",
+		"JavaScript Snippets",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"LoremIpsum",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"TagWrapper",
+		"Tomorrow Color Schemes",
+		"Twitter Bootstrap Snippets",
+		"Underscore.js Snippets"
+	]
+}

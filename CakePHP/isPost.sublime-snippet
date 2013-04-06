@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+\$this->request->is('post')$1
+]]></content>
+	<tabTrigger>isPost</tabTrigger>
+</snippet>

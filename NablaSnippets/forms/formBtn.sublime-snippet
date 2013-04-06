@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<?=formBtn(${1:\$label},${2:\$class=''},${3:\$click=''},${4:\$icon=''},${5:\$input=true)};?>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>formBtn</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
