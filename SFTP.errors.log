@@ -1,0 +1,9 @@
+2013-04-12 17:38:45
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 264, in run
+  File "./sftp/commands.py", line 403, in do_operation
+  File "./sftp/file_transfer.py", line 25, in handler
+  File "./sftp/ftp_transport.py", line 472, in get
+NotFoundError: Folder not found

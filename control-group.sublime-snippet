@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="control-group">
+	<label for="$1" class="control-label">$2</label>
+	<div class="controls">
+		<input class="input-xlarge" type="text" id="$1" name="$1" value="<%= $3.get('$1') %>">
+		${4:input}$5
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cg</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

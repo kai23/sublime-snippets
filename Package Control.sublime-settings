@@ -3,10 +3,23 @@
 	[
 		"AdvancedNewFile",
 		"Alignment",
+<<<<<<< HEAD
+		"AngularJS",
+		"AngularJS Attributes Completion",
+		"Autocomplete Javascript with Method Signature",
+		"Backbone.js",
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"CTags",
+		"Emmet",
+		"Github Tools",
+=======
 		"Backbone.js",
 		"BracketHighlighter",
 		"CoffeeScript",
 		"Emmet",
+>>>>>>> d365aaa5aa973f402092a3ee2747157c03b4b938
 		"HTML5",
 		"HtmlTidy",
 		"JavaScript Console",
@@ -14,11 +27,24 @@
 		"jQuery",
 		"jQuery Snippets pack",
 		"JsFormat",
+<<<<<<< HEAD
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Pretty JSON",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"TagWrapper",
+		"TidyHTML5",
+		"Todo Manager",
+=======
 		"LoremIpsum",
 		"Package Control",
 		"SFTP",
 		"SideBarEnhancements",
 		"TagWrapper",
+>>>>>>> d365aaa5aa973f402092a3ee2747157c03b4b938
 		"Tomorrow Color Schemes",
 		"Twitter Bootstrap Snippets",
 		"Underscore.js Snippets"
